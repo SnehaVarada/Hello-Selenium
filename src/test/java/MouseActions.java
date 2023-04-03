@@ -12,7 +12,7 @@ import org.openqa.selenium.support.ui.Select;
 public class MouseActions {
 
 	public static void main(String[] args) throws InterruptedException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub - test
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\saisn\\eclipse-workspace\\Hello-Selenium\\src\\test\\resources\\drivers\\chromedriver.exe");
 		ChromeOptions chromeOptions = new ChromeOptions();

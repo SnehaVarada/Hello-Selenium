@@ -1,0 +1,35 @@
+['INFO ]2023-03-12 23:07:20,667(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into the test case of Amazon
+['WARN ]2023-03-12 23:07:26,741(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Exiting the test case of Amazon
+['ERROR]2023-03-12 23:07:26,741(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Are you sure to Exit?
+['INFO ]2023-03-13 00:01:16,880(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Entered into the test case of Amazon
+['WARN ]2023-03-13 00:01:21,084(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Exiting the test case of Amazon
+['ERROR]2023-03-13 00:01:21,085(yyyy-MM-ddHH:mm:ss.SSS][main]utilities.LoggerLoad1)-Are you sure to Exit?
+['ERROR]2023-03-13 02:28:10,659(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Error - You can not divide a number by zero
+['INFO ]2023-03-13 02:28:10,669(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Info  - Addition of integers
+['WARN ]2023-03-13 02:28:10,673(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Warning - Testing
+['ERROR]2023-03-13 02:45:01,981(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Error - You can not divide a number by zero
+['INFO ]2023-03-13 02:45:01,989(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Info  - Addition of integers
+['WARN ]2023-03-13 02:45:01,994(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Warning - Testing
+['INFO ]2023-03-13 02:52:30,749(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['WARN ]2023-03-13 02:52:36,153(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Exiting the test case of Amazon
+['ERROR]2023-03-13 02:52:36,154(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Are you sure to Exit?
+['INFO ]2023-03-13 11:41:23,560(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['WARN ]2023-03-13 11:41:29,068(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Exiting the test case of Amazon
+['ERROR]2023-03-13 11:41:29,068(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Are you sure to Exit?
+['INFO ]2023-03-13 11:42:17,961(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['WARN ]2023-03-13 11:42:22,795(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Exiting the test case of Amazon
+['ERROR]2023-03-13 11:42:22,796(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Are you sure to Exit?
+['INFO ]2023-03-17 14:10:35,575(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-17 14:11:28,794(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-17 14:11:51,573(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-17 14:15:26,560(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-17 14:18:28,244(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-17 18:34:13,898(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-17 18:35:48,280(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-17 18:37:40,032(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-17 18:38:20,296(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-Entered into the test case of Amazon
+['INFO ]2023-03-18 02:08:05,657(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-C:\Users\saisn\eclipse-workspace\Hello-Selenium
+['INFO ]2023-03-18 02:09:34,902(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-C:\Users\saisn\eclipse-workspace\Hello-Selenium
+['INFO ]2023-03-18 02:10:54,737(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-C:\Users\saisn\eclipse-workspace\Hello-Selenium
+['INFO ]2023-03-18 02:11:32,704(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-C:\Users\saisn\eclipse-workspace\Hello-Selenium
+['INFO ]2023-03-21 01:45:45,174(yyyy-MM-ddHH:mm:ss.SSS][main]logger.LoggerLoad1)-C:\Users\saisn\eclipse-workspace\Hello-Selenium

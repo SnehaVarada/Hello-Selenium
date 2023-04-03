@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-21T13:43:48 EDT" name="Default suite" finished-at="2023-03-21T13:43:55 EDT" duration-ms="6629">
+    <groups>
+    </groups>
+    <test started-at="2023-03-21T13:43:48 EDT" name="Default test" finished-at="2023-03-21T13:43:55 EDT" duration-ms="6629">
+      <class name="sauceDemo.Execute">
+        <test-method is-config="true" signature="launch()[pri:0, instance:sauceDemo.Execute@3835c46]" started-at="2023-03-21T13:43:48 EDT" name="launch" finished-at="2023-03-21T13:43:51 EDT" duration-ms="2895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="page3()[pri:0, instance:sauceDemo.Execute@3835c46]" started-at="2023-03-21T13:43:51 EDT" name="page3" finished-at="2023-03-21T13:43:54 EDT" duration-ms="3358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- page3 -->
+        <test-method is-config="true" signature="close()[pri:0, instance:sauceDemo.Execute@3835c46]" started-at="2023-03-21T13:43:54 EDT" name="close" finished-at="2023-03-21T13:43:55 EDT" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- sauceDemo.Execute -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
